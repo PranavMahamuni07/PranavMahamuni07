@@ -1,4 +1,4 @@
-[![MasterHead](https://i.etsystatic.com/34466454/r/il/8e83e4/3765942466/il_fullxfull.3765942466_f90y.jpg)](https://rishavchanda.io)
+[![MasterHead]([https://i.etsystatic.com/34466454/r/il/8e83e4/3765942466/il_fullxfull.3765942466_f90y.jpg](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pranav Mahamuni</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
